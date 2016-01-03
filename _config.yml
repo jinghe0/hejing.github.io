@@ -1,0 +1,31 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 何晶
+  email: hejing520888@outlook.com
+  github: https://github.com/jinghe0
+
+# 站点信息
+title: 何晶的博客 
+description: 何晶的博客
+url: http://何晶.com
+rss_url: /pages/atom.xml
+baseurl:/
+# avatar头像及Favicon
+#avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-71945617-1
+  url: 何晶.com
+
+# disqus 设置
+#disqus:
+  #shortname: suyan-zh
